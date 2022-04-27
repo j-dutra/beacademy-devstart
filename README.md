@@ -1,5 +1,7 @@
 # Devstart PayLivre
 
+O DevStart Paylivre  é uma formação completa que visa transformar você em um desenvolvedor back-end PHP na Paylivre, uma fintech em pleno crescimento.
+
 ### Sobre a Be Academy
 
 Fundada em 2018, pelo empreendedor em negócios digitais Bruno Pinheiro, a Be Academy é uma edtech de educação executiva e tem como investidores Janguiê Diniz, Bossa Nova e Carol Paifer. Considerada como uma das pioneiras do segmento, é reconhecida globalmente pela curadoria de seus cursos ao selecionar lideranças conhecidas no segmento de startups e negócios como professores/facilitadores de conteúdo. Com a metodologia aplicada no conceito de lifelong learning - educação contínua sem fim - dispõe de mais de 50 cursos em mais de 350 aulas práticas para o público em geral, além MBA e cursos de alta gestão para C-levels. Também é referência na estratégia de Education Recruitment para empresas, ao criar programas de qualificação em inclusão e diversidade para acelerar a contratação de profissionais.
